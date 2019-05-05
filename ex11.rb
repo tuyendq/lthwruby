@@ -7,3 +7,8 @@ print "How much do you weigh? "
 weight = gets.chomp
 
 puts "So, you're #{age} old, #{height} tall and #{weight} heavy."
+
+# Study Drills section
+print "Give me an integer: "
+int = gets.chomp.to_i
+puts "Here is the integer: #{int}."
