@@ -14,6 +14,7 @@ puts persian_cat
 puts backslash_cat
 puts fat_cat
 
+puts "This is emdash: \u2014."
 puts "How vertical tab \\v\\v\\v\\v looks like: \vFirst\vSecond\vThird\vFourth"
 puts "You hear 3 sound, didn't you? \a\a\a"
 puts "If not, please check volume setting, or your PC doesn't have a sound card."
